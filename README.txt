@@ -13,5 +13,11 @@ Código desenvolvido para os fins da pesquisa
 
 Ilhas, Arquipélagos ou Continentes? Uma Análise Sobre a Geografia do Supremo Tribunal Federal
 
-Neste módulo são mesclados arquivos csv de duas origens. A primeira origem se refere a arquivos exportados diretamente do site jurisprudência do STF sendo um de ADIs e outro de HCs. Para o funcionamento adequado do código abaixo é preciso que os arquivos csv baixados sejam renomeados com inclusão da designação da classe processual: "-ADIs" ou "-HCs". Os outros datasets são os de ADIs e de HCs produzidos no módulo 1.
+Neste módulo são realizadas as contagens automáticas dos votos, além de algumas contagens com ações manuais.
+
+São utilizados dados dos arquivos produzidos no módulo anterior, além de um dataset com dados dos Ministros do STF e arquivos de registos manuais.
+
+O Módulo também processa uma mescla de dados com a inclusão de um arquivo de registros manuais produzido com dados de acórdãos cujo conteúdo textual não são adequados aos processos deste módulo
+
+Ele também produz versões de arquivos com todos os dados (c) e outras com os principais dados de interesse da pesquisa (p)
 
