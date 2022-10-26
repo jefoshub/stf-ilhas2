@@ -9,15 +9,15 @@ Orientadores: Prof. Dr. Leandro Guimarães Marques Alvim Prof. Dr. Rodrigo de So
 
 Sobre este módulo
 
-Código desenvolvido para os fins da pesquisa
+Neste módulo são mesclados arquivos csv de duas origens. 
 
-Ilhas, Arquipélagos ou Continentes? Uma Análise Sobre a Geografia do Supremo Tribunal Federal
+A primeira origem se refere a arquivos exportados diretamente do site jurisprudência do STF sendo um de ADIs e outro de HCs. 
 
-Neste módulo são realizadas as contagens automáticas dos votos, além de algumas contagens com ações manuais.
+Os outros datasets são os de ADIs e de HCs produzidos no módulo 1. 
 
-São utilizados dados dos arquivos produzidos no módulo anterior, além de um dataset com dados dos Ministros do STF e arquivos de registos manuais.
+Links de origem dos dados
 
-O Módulo também processa uma mescla de dados com a inclusão de um arquivo de registros manuais produzido com dados de acórdãos cujo conteúdo textual não são adequados aos processos deste módulo
+ADIs: https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&pesquisa_inteiro_teor=false&sinonimo=true&plural=true&radicais=false&buscaExata=true&processo_classe_processual_unificada_classe_sigla=ADI&julgamento_data=01012011-31122022&page=1&pageSize=250&queryString=adi&sort=date&sortBy=desc
 
-Ele também produz versões de arquivos com todos os dados (c) e outras com os principais dados de interesse da pesquisa (p)
+HCs: https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&pesquisa_inteiro_teor=false&sinonimo=true&plural=true&radicais=false&buscaExata=true&processo_classe_processual_unificada_classe_sigla=HC&julgamento_data=01012011-31122022&orgao_julgador=Tribunal%20Pleno&page=1&pageSize=10&queryString=hc&sort=_score&sortBy=desc
 
