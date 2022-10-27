@@ -1,6 +1,5 @@
 # stf-ilhas2
-Módulo 2 Contagem de Votos
-
+Módulo 2 Mesclagem de Datasets
 
 ----------------------------------------------------------------
 UFRRJ - MESTRADO INTERDISCIPLINAR EM HUMANIDADES DIGITAIS 
