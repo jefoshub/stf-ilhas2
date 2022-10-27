@@ -1,13 +1,17 @@
-UFRRJ - MESTRADO INTERDISCIPLINAR EM HUMANIDADES DIGITAIS
+# stf-ilhas2
+Módulo 2 Contagem de Votos
 
+
+----------------------------------------------------------------
+UFRRJ - MESTRADO INTERDISCIPLINAR EM HUMANIDADES DIGITAIS 
 Jeferson dos Santos Antunes Huaracha (jefsantunes@gmail.com)
 
-Orientadores: Prof. Dr. Leandro Guimarães Marques Alvim Prof. Dr. Rodrigo de Souza Tavares
+Orientadores: Prof. Dr. Leandro Guimarães Marques Alvim 
+              Prof. Dr. Rodrigo de Souza Tavares
 
 Última verificação do funcionamento: Outubro/22
+----------------------------------------------------------------
 
-
-Sobre este módulo
 
 Neste módulo são mesclados arquivos csv de duas origens. 
 
